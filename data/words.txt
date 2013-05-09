@@ -1,0 +1,21 @@
+CC: and, but
+DT: no, the
+JJ: devil, conscious, stupid, senseless, restless, impending, dark, real, honest, strange, universal, steep, twisted, wild, neutral, alive
+IN: than, for, in, that, of, by, like, against, with
+TO: to
+NNS: poles, actors, landlords, contraceptives, pleasures, miles, memories, years, eyes, fates, victories, golfers, bags, clubs
+NN: sympathy, ticket, ride, mind, chalk, expansion, tune, idealism, doom, sense, progress, seeker, hell-raiser, life, suspicion, malcontent, fear, failure, guarantee, iron
+PRP: it, you, ourselves, us, we, I, me
+RB: little, maybe, occasionally, inevitably, simply, then, anywhere, never, now, entirely, not, actually
+RP: out, off, up, down
+RBR: more, less
+UH: brrr, ooohhh, mmmhmm, damn, yeah, hey, ouch, yo
+VBD: was, kept, were, shared, meant, understands, being, aimed, fumbled, rolled, broke
+VBN: beaten, forced, had, gets, lost
+VBZ: gets, seems, sparks, understands, comes, knows, has, is
+VBP: freak, buy, explain, exist, need, provide, carry
+WRB: who, what, when, where, why, how
+VBG: making, leading, kidding, going, lighting, wearing, stalling, booming, riding, fighting
+VB: get, take, keep, do, make, tell, are
+PPS: her, your, his, my, our, its
+JJ PRP: hi
